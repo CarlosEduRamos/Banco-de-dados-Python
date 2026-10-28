@@ -1,0 +1,5 @@
+Usar como Banco de Dados a biblioteca nativa do python:
+
+import sqlite3
+
+É bem parecida com o MySQL.
